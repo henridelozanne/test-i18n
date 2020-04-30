@@ -1,0 +1,9 @@
+{
+  "whoAmI": "Yo soy Henri",
+  "languages": {
+    "english": "Inglés",
+    "french": "Francés",
+    "spanish": "Español"
+  },
+  "current": "Idioma actual"
+}
